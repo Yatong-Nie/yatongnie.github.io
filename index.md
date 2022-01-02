@@ -1,11 +1,7 @@
-## Yatong Nie
-<img src="images/PHOTO6.jpg" width="100">
-
-### A short introduction
-
-I was a PhD student in Structural Engineering in University of New South Wales (UNSW Syndey) since 2018. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. 
-
-From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com/) as a graduate ditigal specialist.
+## Yatong Nie                             
+|                                         |                                         |
+|:----------------------------------------:|:---------------------------------------:|
+<img src="images/PHOTO6.jpg" width="100">|I was a PhD student in Structural Engineering in University of New South Wales (UNSW Syndey) since 2018. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com/) as a graduate ditigal specialist.
 
 Research interests: **Timber structures, Finite element modelling, Deep learning**
 
@@ -32,30 +28,3 @@ Related links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&us
 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
- 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emma-nie/yatongnie.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
