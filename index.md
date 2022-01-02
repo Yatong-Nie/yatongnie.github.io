@@ -1,5 +1,5 @@
 ## Yatong Nie
-![](src)
+<img src="images/PHOTO6.jpg" width="100">
 
 ### A short introduction
 
