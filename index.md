@@ -1,14 +1,13 @@
 ## Yatong Nie
 
-You can use the [editor on GitHub](https://github.com/Emma-nie/yatongnie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### A short introduction
 
-I am a PhD student in Structural Engineering in University of New South Wales (UNSW Syndey) since 2018. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system.
+I was a PhD student in Structural Engineering in University of New South Wales (UNSW Syndey) since 2018. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. 
 
-Research interests: **timber structures, Finite element modelling, Deep learning**
+From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com/) as a graduate ditigal specialist.
+
+Research interests: **Timber structures, Finite element modelling, Deep learning**
 
 E-mail: yatong.nie@unsw.edu.au, nieyatong@gmail.com
 
