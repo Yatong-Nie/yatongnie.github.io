@@ -11,7 +11,7 @@ Research interests: **Timber structures, Finite element modelling, Deep learning
 
 E-mail: yatong.nie@unsw.edu.au, nieyatong@gmail.com
 
-Related links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=39jWzgIAAAAJ)/[ResearchGate](https://www.researchgate.net/profile/Yatong-Nie-2)
+Related links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=39jWzgIAAAAJ)/[ResearchGate](https://www.researchgate.net/profile/Yatong-Nie-2)/[Linkedin](https://www.linkedin.com/in/yatong-nie-18a123108/)
 
 
 ### Publications
