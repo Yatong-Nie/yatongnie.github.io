@@ -1,4 +1,4 @@
-## Welcome to Yatong Nie's website
+## Yatong Nie
 
 You can use the [editor on GitHub](https://github.com/Emma-nie/yatongnie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
