@@ -5,7 +5,7 @@
 
 I was a PhD student in Structural Engineering in University of New South Wales (UNSW Syndey) since 2018. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com/) as a graduate ditigal specialist.
 
-Research interests: **Timber structures, Finite element modelling, Deep learning**
+Research interests: **Innovative timber structures, Finite element modelling, Deep learning**
 
 E-mail: yatong.nie@unsw.edu.au, nieyatong@gmail.com
 
