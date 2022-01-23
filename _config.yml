@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
   
- plugins:
- 	- jekyll-seo-tag
- 	author: Barud
+plugins:
+ - jekyll-seo-tag
+ author: Barud
