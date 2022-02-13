@@ -12,6 +12,7 @@ E-mail: yatong.nie@unsw.edu.au, nieyatong@gmail.com
 Related links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=39jWzgIAAAAJ)/[ResearchGate](https://www.researchgate.net/profile/Yatong-Nie-2)/[Linkedin](https://www.linkedin.com/in/yatong-nie-18a123108/)
 
 ### News
+- [2nd Feb 2022] Yatong Nie was awared the Doctor of Philosophy from UNSW! Congratulations to Dr. Nie! 
 - [22nd Nov 2021] Yatong Nie started the full-time job in Digitise Consulting
 - [8th Nov 2021] Yatong Nie submitted her PhD thesis
 
